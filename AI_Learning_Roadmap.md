@@ -2,7 +2,7 @@
 
 | Topic No | Topic to Learn | Start Date | End Date | Status | Comment |
 |---:|---|---|---|---|---|
-| 1 | Install Python, VS Code, Git, GitHub |  |  | Not Started | |
+| 1 | Install Python, VS Code, Git, GitHub |  02-Aug-2026| 02-Aug-2026 | Complete | Created a Repository and Installed Git in ubuntu host enviornment which will be used for further development.Installed Visual Studio Code 1.131.0. Installed Python on ubuntu|
 | 2 | Variables & Data Types |  |  | Not Started | |
 | 3 | Lists & Tuples |  |  | Not Started | |
 | 4 | Dictionaries & Sets |  |  | Not Started | |
