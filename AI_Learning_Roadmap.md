@@ -3,10 +3,10 @@
 | Topic No | Topic to Learn | Start Date | End Date | Status | Comment |
 |---:|---|---|---|---|---|
 | 1 | Install Python, VS Code, Git, GitHub |  02-Aug-2026| 02-Aug-2026 | Complete | Created a Repository and Installed Git in ubuntu host enviornment which will be used for further development.Installed Visual Studio Code 1.131.0. Installed Python on ubuntu|
-| 2 | Variables & Data Types | 05-Aug-2026 |  | In Progress | |
-| 3 | Lists & Tuples |  05-Aug-2026 |  | In Progress | |
-| 4 | Dictionaries & Sets |  05-Aug-2026 |  | In Progress | |
-| 5 | if/else |  |  | Not Started | |
+| 2 | Variables & Data Types | 05-Aug-2026 | 06-Aug-2026 | Complete | Learned using answering series of Questions|
+| 3 | Lists & Tuples |  05-Aug-2026 |  06-Aug-2026 | In Progress | Learned using answering series of Questions|
+| 4 | Dictionaries & Sets |  05-Aug-2026 | 06-Aug-2026 | In Progress | Learned using answering series of Questions|
+| 5 | if/else | 06-Aug-2026 |  | Started | |
 | 6 | Loops |  |  | Not Started | |
 | 7 | Mini Project: Guessing Game |  |  | Not Started | |
 | 8 | Functions |  |  | Not Started | |
