@@ -7,7 +7,7 @@
 | 3 | Lists & Tuples |  05-Aug-2026 |  06-Aug-2026 | Complete | Learned using answering series of Questions|
 | 4 | Dictionaries & Sets |  05-Aug-2026 | 06-Aug-2026 | Complete | Learned using answering series of Questions|
 | 5 | if/else | 06-Aug-2026 | 07-Aug-2026 | Complete |  Ifelse basic syntax and usage completed|
-| 6 | Loops |  |  | Not Started | |
+| 6 | Loops |  07-Aug-2026|  | Started | |
 | 7 | Mini Project: Guessing Game |  |  | Not Started | |
 | 8 | Functions |  |  | Not Started | |
 | 9 | Modules |  |  | Not Started | |
